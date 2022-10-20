@@ -8,6 +8,7 @@ https://opensource.org/licenses/MIT
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [License](#license)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Github](#github)
