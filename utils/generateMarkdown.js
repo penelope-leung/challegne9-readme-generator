@@ -46,6 +46,7 @@ function renderLicenseLink(license) {
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [License](#license)
   - [Contribution](#contribution)
   - [Testing](#testing)
   - [Github](#github)
