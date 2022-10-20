@@ -14,34 +14,37 @@ https://opensource.org/licenses/MIT
   - [Email](#email)
 
   ## Description:
+  
+  ### Demo 
+  ![alt text](https://github.com/penelope-leung/challenge9-readme-generator/blob/main/demo/challenge9%20demo.gif)
 
 ### User Story<br>
 AS A developer<br>
-I WANT a README generator<br>
-SO THAT I can quickly create a professional README for a new project<br>
+__I WANT__ a README generator<br>
+__SO THAT__ I can quickly create a professional README for a new project<br>
 
 ### Acceptance Criteria<br>
-GIVEN a command-line application that accepts user input<br>
-WHEN I am prompted for information about my application repository<br>
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description,<br> Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
+__GIVEN__ a command-line application that accepts user input<br>
+__WHEN__ I am prompted for information about my application repository<br>
+__THEN__ a high-quality, professional README.md is generated with the title of my project and sections entitled Description,<br> Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions<br>
 
-WHEN I enter my project title<br>
-THEN this is displayed as the title of the README<br>
+__WHEN__ I enter my project title<br>
+__THEN__ this is displayed as the title of the README<br>
 
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions<br>
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests<br>
+__WHEN__ I enter a description, installation instructions, usage information, contribution guidelines, and test instructions<br>
+__THEN__ this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests<br>
 
-WHEN I choose a license for my application from a list of options<br>
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License <br>that explains which license the application is covered under<br>
+__WHEN__ I choose a license for my application from a list of options<br>
+__THEN__ a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License <br>that explains which license the application is covered under<br>
 
-WHEN I enter my GitHub username<br>
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile<br>
+__WHEN__ I enter my GitHub username<br>
+__THEN__ this is added to the section of the README entitled Questions, with a link to my GitHub profile<br>
 
-WHEN I enter my email address<br>
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions<br>
+__WHEN__ I enter my email address<br>
+__THEN__ this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions<br>
 
-WHEN I click on the links in the Table of Contents<br>
-THEN I am taken to the corresponding section of the README<br>
+__WHEN__ I click on the links in the Table of Contents<br>
+__THEN__ I am taken to the corresponding section of the README<br>
 
   ## Installation
   
