@@ -74,8 +74,8 @@ function renderLicenseLink(license) {
 
   ## Email
   ${data.email}
-`;
-    }
+`
+    };
 
 
   module.exports = generateMarkdown;
