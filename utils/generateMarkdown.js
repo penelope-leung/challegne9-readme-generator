@@ -67,7 +67,7 @@ function renderLicenseLink(license) {
   ${data.contrib}
 
   ## Testing
-  ${data.tests}
+  ${data.testing}
 
   ## Github
   [${data.github}](https://github.com/${data.github})
