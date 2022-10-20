@@ -47,6 +47,7 @@ https://opensource.org/licenses/MIT
 >__THEN__ I am taken to the corresponding section of the README<br>
 
   ## Installation
+  
   - download the zip file on Gihub
   - Unzip the file
   - Open your VS code
@@ -55,16 +56,22 @@ https://opensource.org/licenses/MIT
 
   ## Usage
   
+  - Open your Terminal (Application or VS code)
+  - Type node index.js then press enter
+  - Answer all the following prompts
+  - "Success!" is showing
+  - You generated your README.md file!
+  
 
   ## License
         This project use MIT license.
       
 
   ## Contribution
-  
+   Penelope Leung
 
   ## Testing
-  
+  N/A
 
   ## Github
   [penelope-leung](https://github.com/penelope-leung)
