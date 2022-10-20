@@ -1,4 +1,4 @@
-# a
+# ReadMe Generator
 
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
  
@@ -14,13 +14,13 @@ https://opensource.org/licenses/MIT
   - [Email](#email)
 
   ## Description
-  a
+  
 
   ## Installation
-  a
+  n/a
 
   ## Usage
-  a
+  n/a
 
   MIT
   ## License
@@ -28,13 +28,13 @@ https://opensource.org/licenses/MIT
       
 
   ## Contribution
-  a
+  myself
 
   ## Testing
-  
+  n/a
 
   ## Github
-  [a](https://github.com/a)
+  [penelope-leung](https://github.com/penelope-leung)
 
   ## Email
-  a
+  penelope.c.leung@gmail.com
