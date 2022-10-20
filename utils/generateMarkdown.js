@@ -42,7 +42,14 @@ function renderLicenseLink(license) {
 
  ${renderLicenseBadge(data.license)}
  ${renderLicenseLink(data.license)}
-  ## 
+  ## Table of Contents 
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Github](#github)
+  - [Email](#email)
 
   ## Description
   ${data.entitledDes}
@@ -56,14 +63,14 @@ function renderLicenseLink(license) {
   ${data.license}
   ${renderLicenseSection(data.license)}
 
-  ## Contributing
+  ## Contribution
   ${data.contrib}
 
-  ## Tests
+  ## Testing
   ${data.tests}
 
   ## Github
-  ${data.github}
+  [${data.github}](https://github.com/${data.github})
 
   ## Email
   ${data.email}

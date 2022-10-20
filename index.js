@@ -11,7 +11,7 @@ const questions = [    {
   },
   {
     type: 'input',
-    message: 'What is the sections entitled description',
+    message: 'Please provide a description of the project',
     name: 'entitledDes',
   },
   {
@@ -21,26 +21,26 @@ const questions = [    {
   },
   {
     type: 'input',
-    message: 'What is the Usage?',
+    message: 'How do you use this application?',
     name: 'usage',
   },
   {
     type: 'list',
-    message: 'What is the License',
+    message: 'Which license do you use?',
     choices: ["MIT" ,"IBM", "ISC", "None"],
     name:'license',
   },{
     type: 'input',
-    message: 'What is the contributing',
+    message: 'Who is the contributor?',
     name : 'contrib',
   },{
     
     type: 'input',
-    message: 'What is the tests',
-    name : 'test',
+    message: 'How do you test this application?',
+    name : 'testing',
  },{
     type: 'input',
-    message: 'What is your Github repo?',
+    message: 'What is your Github username?',
     name : 'gibhub',
 
  },{
