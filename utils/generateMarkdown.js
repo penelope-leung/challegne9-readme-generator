@@ -60,7 +60,6 @@ function renderLicenseLink(license) {
   ## Usage
   ${data.usage}
 
-  ${data.license}
   ${renderLicenseSection(data.license)}
 
   ## Contribution

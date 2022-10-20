@@ -1,4 +1,4 @@
-# ReadMe Generator
+# 
 
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
  
@@ -17,24 +17,23 @@ https://opensource.org/licenses/MIT
   
 
   ## Installation
-  n/a
+  
 
   ## Usage
-  n/a
+  
 
-  MIT
   ## License
         This project use MIT license.
       
 
   ## Contribution
-  myself
+  
 
   ## Testing
-  n/a
+  
 
   ## Github
-  [penelope-leung](https://github.com/penelope-leung)
+  [](https://github.com/)
 
   ## Email
-  penelope.c.leung@gmail.com
+  
